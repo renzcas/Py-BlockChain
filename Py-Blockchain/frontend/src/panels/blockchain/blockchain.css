@@ -1,0 +1,54 @@
+.blockchain-panel {
+  padding: 20px;
+  color: #eee;
+  background: #111;
+  font-family: sans-serif;
+}
+
+h1, h2 {
+  color: #4fc3f7;
+}
+
+.wallet-section, .mining-section, .pending-section, .chain-section {
+  margin-bottom: 30px;
+}
+
+input {
+  padding: 8px;
+  width: 300px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  background: #4fc3f7;
+  border: none;
+  cursor: pointer;
+  color: #000;
+  font-weight: bold;
+}
+
+button:disabled {
+  background: #555;
+  cursor: not-allowed;
+}
+
+.block-card {
+  background: #222;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-left: 4px solid #4fc3f7;
+}
+
+.tx-card {
+  background: #333;
+  padding: 10px;
+  margin: 8px 0;
+  border-left: 3px solid #81d4fa;
+}
+
+.balance {
+  margin-top: 10px;
+  font-size: 1.2em;
+  color: #81d4fa;
+}

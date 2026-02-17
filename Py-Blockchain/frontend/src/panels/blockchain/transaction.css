@@ -1,0 +1,30 @@
+.tx-panel {
+  padding: 20px;
+  background: #111;
+  color: #eee;
+}
+
+.section {
+  margin-bottom: 25px;
+}
+
+input {
+  padding: 8px;
+  width: 300px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  background: #4fc3f7;
+  border: none;
+  cursor: pointer;
+  color: #000;
+  font-weight: bold;
+}
+
+.status {
+  margin-top: 15px;
+  color: #81d4fa;
+}

@@ -1,0 +1,17 @@
+.network-panel {
+  padding: 20px;
+  background: #111;
+  color: #eee;
+}
+
+.node-card {
+  background: #222;
+  padding: 15px;
+  border-left: 4px solid #4fc3f7;
+  margin-bottom: 20px;
+}
+
+.note {
+  margin-top: 20px;
+  color: #81d4fa;
+}
